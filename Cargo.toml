@@ -2,6 +2,8 @@
 name = "mutsumi-prelude"
 version = "0.1.0"
 edition = "2024"
+description = "Snippet utilities for GTK4 Rust applications"
+license = "MIT"
 
 [dependencies]
 tokio = { version = "1", features = ["rt", "sync"] }
